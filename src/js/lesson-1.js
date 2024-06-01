@@ -1,1 +1,12 @@
-console.log('kkkkkkkkkkkkkkkkkkkkkkkkkk');
+const count = 5;
+console.log('count:', count);
+console.log('jacob Mercer');
+console.log(26);
+const age = 20;
+console.log(age);
+const username = 'Mango';
+console.log('Mango');
+const gogo = 'script';
+console.log('gogo', gogo);
+const alex = 61;
+console.log('alex', alex);
